@@ -5,20 +5,38 @@
 This project simulates a **UR5 robotic arm** equipped with a **Robotiq 85 gripper** to optimize the grasping of objects placed on a table. We apply three optimization algorithms (**PSO**, **GA**, and **BAT**) to learn the best grasping position `(x, y)`.
 
 ## 📈 PSO Learning Curve
-
-![PSO Learning Curve](./images/learning_curve_pso.png)
+<div style="text-align: center;">
+  <img src="./images/learning_curve_pso.png" alt="PSO Learning Curve">
+</div>
 
 ## 📊 Comparison of Learning Curves
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <th>Algorithm</th>
+      <th>Performance</th>
+    </tr>
+    <tr>
+      <td>PSO</td>
+      <td>🥇 Best</td>
+    </tr>
+    <tr>
+      <td>GA</td>
+      <td>🥈 Second Best</td>
+    </tr>
+    <tr>
+      <td>BAT</td>
+      <td>🥉 Worst</td>
+    </tr>
+  </table>
+</div>
 
-| Algorithm | Performance |
-| :--- | :--- |
-| PSO | 🥇 Best |
-| GA | 🥈 Second Best |
-| BAT | 🥉 Worst |
-
-![Algorithm Comparison](./images/compare_algo.png)
+<div style="text-align: center;">
+  <img src="./images/compare_algo.png" alt="Algorithm Comparison">
+</div>
 
 The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence and the best performance. GA (Genetic Algorithm) performs moderately well, while BAT (Bat Algorithm) converges slowly and has the worst performance.
+
 
 ---
 
