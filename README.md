@@ -1,6 +1,6 @@
 # UR5 Robotiq 85 Grasping Optimization
 
-![PSO Training Process](./gifs/pso_training.gif)
+![PSO Training Process](./images/pso_training.gif)
 
 This project simulates a **UR5 robotic arm** equipped with a **Robotiq 85 gripper** to optimize the grasping of objects placed on a table. We apply three optimization algorithms (**PSO**, **GA**, and **BAT**) to learn the best grasping position `(x, y)`.
 
