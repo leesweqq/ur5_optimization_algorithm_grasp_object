@@ -49,7 +49,7 @@ The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence an
 - Automatically saves learning curves and best results
 - Provides comparison charts of algorithm performance
 
-## Usage Instructions  
+## 💠 Usage Instructions  
 
 ### 1. Setup the Environment  
 
@@ -81,18 +81,7 @@ The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence an
 
 ---
 
-## 🚀 Features
-
-- Simulates UR5 robot arm and Robotiq 85 gripper using PyBullet physics engine
-- Optimizes grasping of small cube-shaped objects
-- Supports three optimization algorithms: PSO, GA, and BAT
-- Real-time visualization of the training process
-- Automatically saves learning curves and best results
-- Provides comparison charts of algorithm performance
-
----
-
-## Resources & References
+## 📄 Resources & References
 
 - **PyBullet**: PyBullet is a physics engine for simulating robots and their environments. You can find more details and documentation on the official website of [PyBullet](https://pybullet.org/).
 - **NiaPy**: NiaPy (Python Microframework for Building Nature-Inspired Algorithms) is a Python library that provides easy-to-use implementations of various nature-inspired algorithms, such as PSO, GA, and BAT. More information can be found on the [NiaPy GitHub repository](https://github.com/NiaOrg/NiaPy).
