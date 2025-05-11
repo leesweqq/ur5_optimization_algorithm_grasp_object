@@ -85,5 +85,6 @@ The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence an
 
 - **PyBullet**: PyBullet is a physics engine for simulating robots and their environments. You can find more details and documentation on the official website of [PyBullet](https://pybullet.org/).
 - **NiaPy**: NiaPy (Python Microframework for Building Nature-Inspired Algorithms) is a Python library that provides easy-to-use implementations of various nature-inspired algorithms, such as PSO, GA, and BAT. More information can be found on the [NiaPy GitHub repository](https://github.com/NiaOrg/NiaPy).
+- Model: https://github.com/ElectronicElephant/pybullet_ur5_robotiq
 
 
