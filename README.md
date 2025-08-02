@@ -4,12 +4,12 @@
 
 This project simulates a **UR5 robotic arm** equipped with a **Robotiq 85 gripper** to optimize the grasping of objects placed on a table. We apply three optimization algorithms (**PSO**, **GA**, and **BAT**) to learn the best grasping position `(x, y)`.
 
-## 📈 PSO Learning Curve
+## PSO Learning Curve
 <div style="text-align: center;">
   <img src="./images/learning_curve_pso.png" alt="PSO Learning Curve">
 </div>
 
-## 📊 Comparison of Learning Curves
+## Comparison of Learning Curves
 <div style="text-align: center;">
   <table>
     <tr>
@@ -40,7 +40,7 @@ The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence an
 
 ---
 
-## 🚀 Features
+## Features
 
 - Simulates UR5 robot arm and Robotiq 85 gripper using PyBullet physics engine
 - Optimizes grasping of small cube-shaped objects
@@ -49,7 +49,7 @@ The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence an
 - Automatically saves learning curves and best results
 - Provides comparison charts of algorithm performance
 
-## 💠 Usage Instructions  
+## Usage Instructions  
 
 ### 1. Setup the Environment  
 
@@ -81,7 +81,7 @@ The PSO (Particle Swarm Optimization) algorithm shows the fastest convergence an
 
 ---
 
-## 📄 Resources & References
+## Resources & References
 
 - **PyBullet**: PyBullet is a physics engine for simulating robots and their environments. You can find more details and documentation on the official website of [PyBullet](https://pybullet.org/).
 - **NiaPy**: NiaPy (Python Microframework for Building Nature-Inspired Algorithms) is a Python library that provides easy-to-use implementations of various nature-inspired algorithms, such as PSO, GA, and BAT. More information can be found on the [NiaPy GitHub repository](https://github.com/NiaOrg/NiaPy).
